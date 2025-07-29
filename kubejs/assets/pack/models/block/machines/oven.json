@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "pack:block/machines/oven/oven_side",
+        "down": "pack:block/machines/oven/oven_bottom",
+        "up": "pack:block/machines/oven/oven_top",
+        "north": "pack:block/machines/oven/oven_front",
+        "south": "pack:block/machines/oven/oven_side",
+        "west": "pack:block/machines/oven/oven_side",
+        "east": "pack:block/machines/oven/oven_side"
+    }
+}

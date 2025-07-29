@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "pack:block/machines/oven" },
+        "facing=south": { "model": "pack:block/machines/oven", "y": 180 },
+        "facing=west": { "model": "pack:block/machines/oven", "y": 270 },
+        "facing=east": { "model": "pack:block/machines/oven", "y": 90 }
+    }
+}
